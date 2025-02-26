@@ -1,0 +1,81 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Quicksand;
+}
+body{
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: #0c1729;
+}
+section{
+    height: 470px;
+    width: 260px;
+    background-color: #15273f;
+    padding: 22px;
+    border-radius: 12px;
+}
+#Cubo{
+    width: 260px;
+}
+#Cubo img{
+    width: 260px;   
+    border-radius: 12px;
+}
+h1{
+    color: white;
+    font-size: 18px;
+    margin-top: 15px;
+}
+#texto1{
+    color: #778daf;
+    font-size: 15px;
+    margin-top: 15px;
+}
+.Cuadros{
+    display: flex;
+}
+#Primera-parte p{
+    color: #00fcfa;
+    font-weight: 650;
+    font-size: 15px;
+    margin-left: 5px;
+}
+#Segunda-parte p{
+    color: #88acd7;
+    font-weight: 500;
+    font-size: 15px;
+    margin-left: 6px;
+}
+#Valores{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+hr{
+    border-top: 0;
+    border-bottom: solid 1px gray;
+    margin-top: 22px;
+}
+#Tercera-parte{
+    margin-top: 15px;
+}
+#Marco-perfil{
+    height: 30px;
+    width: 30px;
+    border: solid 1.5px white;
+    border-radius: 50%;
+}
+#perfil{
+    width: 30px;
+}
+#Tercera-parte p{
+    color: #778daf;
+    font-size: 13px;
+    font-weight: 600;
+    padding: 6px;
+}
+#Tercera-parte b{
+    color: white;
+    font-weight: 500;
+}
